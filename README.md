@@ -8,4 +8,4 @@ Tambahkan fitur swipe left delete task
 Tambahkan fitur swipe right go to edit task page
 Tambahkan fitur edit task.
 Tambahkan fitur validasi input di edit task.
-Tambahkan fitur disable button edit task jika validasi input masih error.
+Tambahkan fitur disable button edit task jika validasi input masih error. 
